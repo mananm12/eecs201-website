@@ -11,15 +11,15 @@ function Nav() {
             <ul className="nav-links">
                 <Link 
                     style={{ color: "green", textDecoration: "none", marginTop: "10px" }}
-                    to="/graph"
+                    to="/blog"
                 >
-                    <li>Graph</li>
+                    <li>Blog</li>
                 </Link>
                 <Link 
                     style={{ color: "green", textDecoration: "none", marginTop: "10px", marginLeft: "45px" }}
-                    to="/about"
+                    to="/home"
                 >
-                    <li>About</li>
+                    <li>Home</li>
                 </Link>
             </ul>
         </nav>

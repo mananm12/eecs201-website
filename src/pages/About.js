@@ -12,6 +12,7 @@ function About() {
             <br />
             <h2>Manan's Site</h2>
             <br />
+            <p>EECS 201</p>
             <div></div>
             <br />
         </div>

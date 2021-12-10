@@ -12,6 +12,21 @@ function Home() {
             <br />
             <h2>Manan's Site</h2>
             <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
             <div></div>
             <br />
         </div>

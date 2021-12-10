@@ -10,7 +10,7 @@ function Footer() {
             }}
         >
             <br />
-            <h2>Manan's Site Bottom</h2>
+            <h6>This website was created on React</h6>
             <br />
             <div></div>
             <br />
